@@ -1,5 +1,5 @@
 # weDAQ
- Hardware design and PCB fabrication files for the Wireless Electrophysiology Data Acquisition system
+ Hardware design files and PCB fabrication outputs for the Wireless Electrophysiology Data Acquisition (weDAQ) system. For more information, see the IEEE ISCAS 2022 Proceedings paper here: https://ieeexplore.ieee.org/document/9937994
 
 ## Assembled System 
 ### Top View
