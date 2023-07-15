@@ -35,6 +35,6 @@
 </object>
 
 
-Firmware and software repo associated with the weDAQ hardware are made available as well.
+Firmware and software repo associated with the weDAQ hardware are made available as well. <br />
 Python control script: https://github.com/msl052/WeDAQ_Multi
 
