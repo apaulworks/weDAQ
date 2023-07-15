@@ -35,9 +35,6 @@
 </object>
 
 
-Firmware and software repo associated with the weDAQ hardware will be made available soon (by June 2023).
+Firmware and software repo associated with the weDAQ hardware are made available as well.
+Python control script: https://github.com/msl052/WeDAQ_Multi
 
-<embed src="/images/weDAQ_system_overview.pdf/" type="application/pdf">
-
-<object data="/images/weDAQ_system_overview.pdf/" type="application/pdf" width="100%">
-</object>
